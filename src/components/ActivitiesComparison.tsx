@@ -24,13 +24,13 @@ const activities: Activity[] = [
       available: true,
       included: true,
       description: "Included in your stay! Unlimited access to the surf simulator for all ages.",
-      imageUrl: "https://thegrand.moonpalace.com/assets/img/gallery/activities/flowrider/flowrider-01.jpg"
+      imageUrl: "https://thegrand.moonpalace.com/flowrider-water-park-moon-palace-the-grand_9bc96cec50.webp"
     },
     planetHollywood: {
       available: true,
       included: false,
       description: "Available for an additional fee of $25 per person per use.",
-      imageUrl: "https://www.planethollywoodhotels.com/resorts/cancun/assets/img/gallery/activities/flowrider-01.jpg"
+      imageUrl: "https://marriott.cdn.tambourine.com/planet-hollywood/media/ph-flowr-rider-1-622f724d91ad9.jpg"
     }
   },
   {
@@ -39,13 +39,13 @@ const activities: Activity[] = [
       available: true,
       included: true,
       description: "10+ swimming pools including massive water park with multiple slides and lazy river.",
-      imageUrl: "https://thegrand.moonpalace.com/assets/img/gallery/pools/main-pool-01.jpg"
+      imageUrl: "https://q-xx.bstatic.com/xdata/images/hotel/max500/521761677.jpg?k=b111afbe465fa54199768eef01b023c060a1e80c2defdae876b2518078ef2b92&o="
     },
     planetHollywood: {
       available: true,
       included: true,
       description: "Smaller water park with Shipwreck Cove splash zone and lazy river with swim-up bar.",
-      imageUrl: "https://www.planethollywoodhotels.com/resorts/cancun/assets/img/gallery/pools/shipwreck-cove-01.jpg"
+      imageUrl: "https://assets.sunwingtravelgroup.com/f_auto,q_auto/sunwing-prod/HotelImages/CUN4PH/16x9/007.jpg"
     }
   },
   {
