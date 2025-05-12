@@ -114,7 +114,7 @@ const activities: Activity[] = [
       available: true,
       included: false,
       description: "Jack Nicklaus Signature golf course (additional fee, but discounted for guests).",
-      imageUrl: "https://thegrand.moonpalace.com/assets/img/gallery/golf/golf-course-01.jpg"
+      imageUrl: "https://golf-pass.brightspotcdn.com/cb/77/bbc410323ebef82554f334a37ae5/109997.jpg"
     },
     planetHollywood: {
       available: false,
