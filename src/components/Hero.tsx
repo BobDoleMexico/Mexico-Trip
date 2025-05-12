@@ -47,7 +47,7 @@ const Hero: React.FC = () => {
           <div className="flex flex-col md:flex-row gap-8 items-center">
             <div className="md:w-1/2">
               <img 
-                src="https://images.pexels.com/photos/5382445/pexels-photo-5382445.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="https://media.istockphoto.com/id/1155709220/video/three-old-friends-have-met-by-the-swimming-pool-in-the-aqua-park.jpg?s=480x480&k=20&c=wMESahgblcf0QiiabV-VNiliRLZVEuvcxdEZQZlKXdc=" 
                 alt="Friends enjoying strawberry daiquiris" 
                 className="rounded-lg shadow-xl w-full h-auto object-cover"
               />
