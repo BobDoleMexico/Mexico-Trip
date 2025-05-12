@@ -90,7 +90,7 @@ const activities: Activity[] = [
       available: true,
       included: true,
       description: "Indoor trampoline park for kids and teens.",
-      imageUrl: "https://www.planethollywoodhotels.com/resorts/cancun/assets/img/gallery/activities/trampoline-01.jpg"
+      imageUrl: "https://marriott.cdn.tambourine.com/planet-hollywood/media/ph-planet-play-5-6234c743dc757.jpg"
     }
   },
   {
