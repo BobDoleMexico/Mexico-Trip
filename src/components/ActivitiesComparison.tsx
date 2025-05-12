@@ -54,7 +54,7 @@ const activities: Activity[] = [
       available: true,
       included: true,
       description: "Modern six-lane bowling alley included in your stay!",
-      imageUrl: "https://thegrand.moonpalace.com/assets/img/gallery/activities/bowling/bowling-01.jpg"
+      imageUrl: "https://thegrand.moonpalace.com/bowling-9th-pin-moon-palace-the-grand_32f0aeaad8.webp"
     },
     planetHollywood: {
       available: false,
