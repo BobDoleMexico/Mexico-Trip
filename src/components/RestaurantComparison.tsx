@@ -12,7 +12,7 @@ interface Restaurant {
 const moonPalaceRestaurants: Restaurant[] = [
   { name: "Jade", cuisine: "Asian Fusion", reservationRequired: false, dressCode: "Casual Elegant", description: "Upscale Asian cuisine featuring sushi, teppanyaki, and Chinese specialties." },
   { name: "Cuzco", cuisine: "Peruvian", reservationRequired: true, dressCode: "Casual Elegant", description: "Sophisticated Peruvian dishes with unique flavors and fresh seafood." },
-  { name: "Agra", cuisine: "Indian", reservationRequired: false, dressCode: "Casual", description: "Authentic Indian cuisine with traditional tandoori and curry dishes." },
+  { name: "J.C.'s Steakhouse'", cuisine: "Steakhouse", reservationRequired: false, dressCode: "Casual Elegant", description: "Slip comfortably in this familiar setting, with a sizzle and rich aroma of Certified Angus Beef® cuts." },
   { name: "Il Giardino", cuisine: "Italian", reservationRequired: false, dressCode: "Casual Elegant", description: "Classic Italian fare with fresh pasta and wood-fired pizzas." },
   { name: "Los Tacos", cuisine: "Mexican", reservationRequired: false, dressCode: "Casual", description: "Casual Mexican taqueria with authentic street tacos and local flavors." }
 ];
@@ -214,7 +214,7 @@ const RestaurantComparison: React.FC = () => {
                   </tr>
                   <tr>
                     <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">Cuisine Variety</td>
-                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">Extensive (Mexican, Italian, Asian, Indian, etc.)</td>
+                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">Extensive (Mexican, Italian, French, Steakhouse, Asian, Indian)</td>
                     <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">Good (American, Italian, Asian, Steakhouse)</td>
                   </tr>
                   <tr>
