@@ -69,13 +69,13 @@ const activities: Activity[] = [
       available: true,
       included: true,
       description: "Wired Lounge features the latest video games and arcade classics.",
-      imageUrl: "https://thegrand.moonpalace.com/assets/img/gallery/activities/wired-lounge/wired-01.jpg"
+      imageUrl: "https://itsalovelylife.com/wp-content/uploads/2016/11/moon-palace-cancun-for-teens.jpg"
     },
     planetHollywood: {
       available: true,
       included: false,
       description: "Small arcade available with game credits for additional fee.",
-      imageUrl: "https://www.planethollywoodhotels.com/resorts/cancun/assets/img/gallery/activities/arcade-01.jpg"
+      imageUrl: "https://marriott.cdn.tambourine.com/planet-hollywood/media/ph-planet-play-9-622f737f9b3c4.jpg"
     }
   },
   {
