@@ -105,7 +105,7 @@ const activities: Activity[] = [
       available: true,
       included: true,
       description: "On-site movie theater showing recent releases.",
-      imageUrl: "https://www.planethollywoodhotels.com/resorts/cancun/assets/img/gallery/activities/theater-01.jpg"
+      imageUrl: "https://marriott.cdn.tambourine.com/planet-hollywood/media/7h6a3838-623217c5de10c.jpg"
     }
   },
   {
