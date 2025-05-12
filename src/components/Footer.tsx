@@ -47,7 +47,6 @@ const Footer: React.FC = () => {
               <li>Moon Palace: $25,144 total</li>
               <li>Planet Hollywood: $21,180 total</li>
               <li>Price Difference: $3,964</li>
-              <li>Payment Due: May 15, 2025</li>
             </ul>
           </div>
           
